@@ -24,6 +24,9 @@
 * **画像解析**: HTML5 Canvas API によるフロントエンドでの独自ピクセル走査アルゴリズム
 
 
+**[使い方ガイド](https://www.youtube.com/watch?v=HdbGyf9caz0)**
+
+
 ---
 
 ## ローカル開発環境のセットアップ
